@@ -1,0 +1,13 @@
+#0090
+<KEY<CMU0008<MNA<FAI0002<END
+
+#0200
+<KEY<MSGA Door.<NOD<CLROpen it?<YNJ1000<TRA0003:0003:0004<CLO<END
+
+#00201
+<KEY<MYB0000<MSGDid I see you somewhere? You were with that blonde girl?<NOD<CLRYou don't know what I'm talking about?<YNJ1001<CLRSo you're one of the island savers<NOD<CLRWelcome home, Quote<NOD<CLO<END
+
+#1000
+Ok.<NOD<CLO<END
+#1001
+Oh, alright.<NOD<CLO<END

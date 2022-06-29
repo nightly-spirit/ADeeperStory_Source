@@ -1,11 +1,18 @@
+; Delete these comments pls
+; TODO: Change Sprites for Interactables
+; Finish Script
+
 #0090
 <KEY<CMU0008<MNA<FAI0002<END
 
 #0200
 <KEY<MSGA Door.<NOD<CLROpen it?<YNJ1000<TRA0003:0003:0004<CLO<END
 
-#00201
+#0201
 <KEY<MYB0000<MSGDid I see you somewhere? You were with that blonde girl?<NOD<CLRYou don't know what I'm talking about?<YNJ1001<CLRSo you're one of the island savers<NOD<CLRWelcome home, Quote<NOD<CLO<END
+
+#0202
+<KEY<MSGYou open the chest.<WAI0015.<WAI0015.<WAI0020<CLR<AM+0013:9999<GIT0013Found the = Spur =<WAI0035<NOD<CLRSomething's written on it with a big block-style text<NOD<CLRit pews pews laser lol<NOD<CLRBruh.<NOD<CLO<END
 
 #1000
 Ok.<NOD<CLO<END

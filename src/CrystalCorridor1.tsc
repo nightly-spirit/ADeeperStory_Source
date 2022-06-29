@@ -1,0 +1,12 @@
+; 90 is the enter event
+; 900 is the quake enter event
+; 900 currently blindcoded, can't test and I think it doesn't work well
+
+#0090
+<KEY<MNA<CMU0018<FAI0000<END
+#0200
+<KEY<MSGBunny Statue of some sort<NOD<CLRLooks like an uglier mimiga<NOD<CLO<END
+#0201
+<KEY<MSGIt won't open<NOD<CLO<END
+#0900
+<KEY<MS2Something feels off.<WAI0030<NOD<CLRMy body has the need to run.<NOD<CLO<KEY<MSGRUN<NOD<CLO<FAI0000<CMU0018<QUA9999<END
